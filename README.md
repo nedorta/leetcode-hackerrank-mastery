@@ -13,6 +13,7 @@ This repository contains solutions to various competitive programming problems f
 - [125. Valid Palindrome](./LeetCode/125)
 - [146. LRU Cache](./LeetCode/146)
 - [198. House Robber](./LeetCode/198)
+- [200. Number of Islands](./LeetCode/200)
 - [207. Course Schedule](./LeetCode/207)
 - [303. Range Sum Query - Immutable](./LeetCode/303)
 - [767. Reorganize String](./LeetCode/767)
