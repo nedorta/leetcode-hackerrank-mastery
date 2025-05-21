@@ -10,6 +10,7 @@ This directory contains solutions to LeetCode problems. Each problem is in its o
 | 20 | [20. Valid Parentheses](./20) | Easy |
 | 35 | [35. Search Insert Position](./35) | Easy |
 | 70 | [70. Climbing Stairs](./70) | Easy |
+| 71 | [71. Simplify Path](./71) | Medium |
 | 88 | [88. Merge Sorted Array](./88) | Easy |
 | 121 | [121. Best Time to Buy and Sell Stock](./121) | Easy |
 | 125 | [125. Valid Palindrome](./125) | Easy |

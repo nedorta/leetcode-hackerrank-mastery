@@ -52,7 +52,61 @@ Maintain two pointers, left and right, that bracket the search space:
 
 If you exit the loop without finding target, left is the correct insertion index.
 
-## 5. Why left Is the Insertion Point
+## 5. Walkthrough of the Code
+
+```java
+public class Solution {
+    /**
+     * Finds the index of target in a sorted array, or the insertion position if not found.
+     */
+    public int searchInsert(int[] nums, int target) {
+        // 1) Initialize the binary-search bounds:
+        //    left  = start of array
+        //    right = end of array
+        int left = 0;
+        int right = nums.length - 1;
+
+        // 2) Standard binary search loop: narrow [left..right] until left > right
+        while (left <= right) {
+            // 2a) Compute mid without overflow
+            int mid = left + (right - left) / 2;
+
+            // 2b) If we found target exactly at mid, return immediately
+            if (nums[mid] == target) {
+                return mid;
+            }
+
+            // 2c) If target is larger, discard left half by moving left pointer just past mid
+            if (nums[mid] < target) {
+                left = mid + 1;
+            } 
+            // 2d) Otherwise discard right half by moving right pointer just before mid
+            else {
+                right = mid - 1;
+            }
+        }
+
+        // 3) Loop has exited ⇒ left is the correct insertion position
+        //    because all elements < target are before left, and all ≥ target are at ≥ left.
+        return left;
+    }
+}
+```
+
+### Line-by-Line Explanation
+
+| Code Line(s) | What It Does |
+|--------------|-------------|
+| `int left = 0, right = nums.length-1;` | Set up the initial search range to cover the entire array. |
+| `while (left <= right)` | Continue while the range [left..right] is non-empty. |
+| `mid = left + (right-left)/2;` | Find the midpoint index safely (avoiding potential overflow). |
+| `if (nums[mid] == target) return mid;` | Exact match ⇒ our answer is mid. |
+| `if (nums[mid] < target) left = mid + 1;` | Target must lie to the right of mid ⇒ move left just past mid. |
+| `else right = mid - 1;` | Target must lie to the left of mid ⇒ move right just before mid. |
+| Loop exit (left > right) | We didn't find an exact match. |
+| `return left;` | left now points to the first index where nums[left] ≥ target, which is where we'd insert target. |
+
+## 6. Why left Is the Insertion Point
 
 When the loop ends, we have:
 - All indices < left contain values < target
@@ -60,12 +114,12 @@ When the loop ends, we have:
 
 Thus, inserting at left maintains sorted order.
 
-## 6. Complexity Analysis
+## 7. Complexity Analysis
 
 - Time: O(log n) — each step halves the search range
 - Space: O(1) extra — only pointers and a mid-variable
 
-## 7. Key Takeaway
+## 8. Key Takeaway
 
 - Binary search is the go-to for any "search/insert in sorted array" problem requiring O(log n) time
 - Remember the loop invariant: upon exit, left is the smallest index where nums[left] ≥ target, making it the ideal insertion spot if an exact match isn't found 
