@@ -5,6 +5,7 @@ This repository contains solutions to various competitive programming problems f
 
 - [1. Two Sum](./LeetCode/1)
 - [20. Valid Parentheses](./LeetCode/20)
+- [35. Search Insert Position](./LeetCode/35)
 - [70. Climbing Stairs](./LeetCode/70)
 - [88. Merge Sorted Array](./LeetCode/88)
 - [121. Best Time to Buy and Sell Stock](./LeetCode/121)
