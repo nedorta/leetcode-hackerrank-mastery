@@ -10,6 +10,7 @@ This repository contains solutions to various competitive programming problems f
 | 3 | [Longest Substring Without Repeating Characters](./LeetCode/3) | Medium |
 | 20 | [Valid Parentheses](./LeetCode/20) | Easy |
 | 22 | [Generate Parentheses](./LeetCode/22) | Medium |
+| 23 | [Merge k Sorted Lists](./LeetCode/23) | Hard |
 | 35 | [Search Insert Position](./LeetCode/35) | Easy |
 | 46 | [Permutations](./LeetCode/46) | Medium |
 | 49 | [Group Anagrams](./LeetCode/49) | Medium |
