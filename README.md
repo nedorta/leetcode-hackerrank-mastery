@@ -3,27 +3,30 @@ This repository contains solutions to various competitive programming problems f
 
 ## [LeetCode](./LeetCode)
 
-- [1. Two Sum](./LeetCode/1)
-- [2. Add Two Numbers](./LeetCode/2)
-- [3. Longest Substring Without Repeating Characters](./LeetCode/3)
-- [20. Valid Parentheses](./LeetCode/20)
-- [35. Search Insert Position](./LeetCode/35)
-- [53. Maximum Subarray](./LeetCode/53)
-- [56. Merge Intervals](./LeetCode/56)
-- [70. Climbing Stairs](./LeetCode/70)
-- [71. Simplify Path](./LeetCode/71)
-- [88. Merge Sorted Array](./LeetCode/88)
-- [121. Best Time to Buy and Sell Stock](./LeetCode/121)
-- [125. Valid Palindrome](./LeetCode/125)
-- [146. LRU Cache](./LeetCode/146)
-- [198. House Robber](./LeetCode/198)
-- [200. Number of Islands](./LeetCode/200)
-- [207. Course Schedule](./LeetCode/207)
-- [303. Range Sum Query - Immutable](./LeetCode/303)
-- [347. Top K Frequent Elements](./LeetCode/347)
-- [767. Reorganize String](./LeetCode/767)
-- [994. Rotting Oranges](./LeetCode/994)
-- [1004. Max Consecutive Ones III](./LeetCode/1004)
+| # | Title | Difficulty |
+|---| ----- | ---------- |
+| 1 | [Two Sum](./LeetCode/1) | Easy |
+| 2 | [Add Two Numbers](./LeetCode/2) | Medium |
+| 3 | [Longest Substring Without Repeating Characters](./LeetCode/3) | Medium |
+| 20 | [Valid Parentheses](./LeetCode/20) | Easy |
+| 35 | [Search Insert Position](./LeetCode/35) | Easy |
+| 53 | [Maximum Subarray](./LeetCode/53) | Medium |
+| 56 | [Merge Intervals](./LeetCode/56) | Medium |
+| 70 | [Climbing Stairs](./LeetCode/70) | Easy |
+| 71 | [Simplify Path](./LeetCode/71) | Medium |
+| 88 | [Merge Sorted Array](./LeetCode/88) | Easy |
+| 121 | [Best Time to Buy and Sell Stock](./LeetCode/121) | Easy |
+| 125 | [Valid Palindrome](./LeetCode/125) | Easy |
+| 146 | [LRU Cache](./LeetCode/146) | Medium |
+| 198 | [House Robber](./LeetCode/198) | Medium |
+| 200 | [Number of Islands](./LeetCode/200) | Medium |
+| 207 | [Course Schedule](./LeetCode/207) | Medium |
+| 238 | [Product of Array Except Self](./LeetCode/238) | Medium |
+| 303 | [Range Sum Query - Immutable](./LeetCode/303) | Easy |
+| 347 | [Top K Frequent Elements](./LeetCode/347) | Medium |
+| 767 | [Reorganize String](./LeetCode/767) | Medium |
+| 994 | [Rotting Oranges](./LeetCode/994) | Medium |
+| 1004 | [Max Consecutive Ones III](./LeetCode/1004) | Medium |
 
 ## [HackerRank](./HackerRank)
 
