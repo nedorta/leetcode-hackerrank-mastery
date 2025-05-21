@@ -8,6 +8,7 @@ This repository contains solutions to various competitive programming problems f
 - [3. Longest Substring Without Repeating Characters](./LeetCode/3)
 - [20. Valid Parentheses](./LeetCode/20)
 - [35. Search Insert Position](./LeetCode/35)
+- [53. Maximum Subarray](./LeetCode/53)
 - [56. Merge Intervals](./LeetCode/56)
 - [70. Climbing Stairs](./LeetCode/70)
 - [71. Simplify Path](./LeetCode/71)

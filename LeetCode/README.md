@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-This directory contains solutions to LeetCode problems. Each problem is in its own numbered directory (e.g., `1`, `20`, etc.) containing the problem description and solution in Java.
+This directory contains solutions to various competitive programming problems from platforms like HackerRank and LeetCode. Feel free to explore the solutions and learn from them.
 
 ## Problems
 
@@ -11,6 +11,7 @@ This directory contains solutions to LeetCode problems. Each problem is in its o
 | 3 | [3. Longest Substring Without Repeating Characters](./3) | Medium |
 | 20 | [20. Valid Parentheses](./20) | Easy |
 | 35 | [35. Search Insert Position](./35) | Easy |
+| 53 | [53. Maximum Subarray](./53) | Medium |
 | 56 | [56. Merge Intervals](./56) | Medium |
 | 70 | [70. Climbing Stairs](./70) | Easy |
 | 71 | [71. Simplify Path](./71) | Medium |
