@@ -16,6 +16,7 @@ This directory contains solutions to LeetCode problems. Each problem is in its o
 | 125 | [125. Valid Palindrome](./125) | Easy |
 | 198 | [198. House Robber](./198) | Medium |
 | 207 | [207. Course Schedule](./207) | Medium |
+| 303 | [303. Range Sum Query - Immutable](./303) | Easy |
 | 1004 | [1004. Max Consecutive Ones III](./1004) | Medium |
 
 ## Navigation

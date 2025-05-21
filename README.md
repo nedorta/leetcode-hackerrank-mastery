@@ -13,6 +13,7 @@ This repository contains solutions to various competitive programming problems f
 - [125. Valid Palindrome](./LeetCode/125)
 - [198. House Robber](./LeetCode/198)
 - [207. Course Schedule](./LeetCode/207)
+- [303. Range Sum Query - Immutable](./LeetCode/303)
 - [1004. Max Consecutive Ones III](./LeetCode/1004)
 
 ## [HackerRank](./HackerRank)
