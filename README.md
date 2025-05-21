@@ -20,6 +20,7 @@ This repository contains solutions to various competitive programming problems f
 | 88 | [Merge Sorted Array](./LeetCode/88) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](./LeetCode/121) | Easy |
 | 125 | [Valid Palindrome](./LeetCode/125) | Easy |
+| 138 | [Copy List with Random Pointer](./LeetCode/138) | Medium |
 | 146 | [LRU Cache](./LeetCode/146) | Medium |
 | 198 | [House Robber](./LeetCode/198) | Medium |
 | 200 | [Number of Islands](./LeetCode/200) | Medium |
