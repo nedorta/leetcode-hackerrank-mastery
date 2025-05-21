@@ -11,6 +11,7 @@ This repository contains solutions to various competitive programming problems f
 - [88. Merge Sorted Array](./LeetCode/88)
 - [121. Best Time to Buy and Sell Stock](./LeetCode/121)
 - [125. Valid Palindrome](./LeetCode/125)
+- [207. Course Schedule](./LeetCode/207)
 - [1004. Max Consecutive Ones III](./LeetCode/1004)
 
 ## [HackerRank](./HackerRank)
