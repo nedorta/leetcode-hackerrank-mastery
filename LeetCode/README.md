@@ -9,6 +9,7 @@ This directory contains solutions to LeetCode problems. Each problem is in its o
 | 1 | [1. Two Sum](./1) | Easy |
 | 20 | [20. Valid Parentheses](./20) | Easy |
 | 35 | [35. Search Insert Position](./35) | Easy |
+| 56 | [56. Merge Intervals](./56) | Medium |
 | 70 | [70. Climbing Stairs](./70) | Easy |
 | 71 | [71. Simplify Path](./71) | Medium |
 | 88 | [88. Merge Sorted Array](./88) | Easy |
@@ -27,3 +28,4 @@ This directory contains solutions to LeetCode problems. Each problem is in its o
 Problems are organized by their number. Each problem directory contains:
 - Problem description file named after the problem
 - Solution file in Java
+- Explanation file with detailed solution walkthrough
