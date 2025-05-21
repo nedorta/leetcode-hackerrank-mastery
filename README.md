@@ -5,6 +5,7 @@ This repository contains solutions to various competitive programming problems f
 
 - [1. Two Sum](./LeetCode/1)
 - [2. Add Two Numbers](./LeetCode/2)
+- [3. Longest Substring Without Repeating Characters](./LeetCode/3)
 - [20. Valid Parentheses](./LeetCode/20)
 - [35. Search Insert Position](./LeetCode/35)
 - [56. Merge Intervals](./LeetCode/56)

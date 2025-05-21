@@ -8,6 +8,7 @@ This directory contains solutions to LeetCode problems. Each problem is in its o
 |---| ----- | ---------- |
 | 1 | [1. Two Sum](./1) | Easy |
 | 2 | [2. Add Two Numbers](./2) | Medium |
+| 3 | [3. Longest Substring Without Repeating Characters](./3) | Medium |
 | 20 | [20. Valid Parentheses](./20) | Easy |
 | 35 | [35. Search Insert Position](./35) | Easy |
 | 56 | [56. Merge Intervals](./56) | Medium |
