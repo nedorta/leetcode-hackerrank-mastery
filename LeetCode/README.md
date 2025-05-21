@@ -14,9 +14,11 @@ This directory contains solutions to LeetCode problems. Each problem is in its o
 | 88 | [88. Merge Sorted Array](./88) | Easy |
 | 121 | [121. Best Time to Buy and Sell Stock](./121) | Easy |
 | 125 | [125. Valid Palindrome](./125) | Easy |
+| 146 | [146. LRU Cache](./146) | Medium |
 | 198 | [198. House Robber](./198) | Medium |
 | 207 | [207. Course Schedule](./207) | Medium |
 | 303 | [303. Range Sum Query - Immutable](./303) | Easy |
+| 767 | [767. Reorganize String](./767) | Medium |
 | 1004 | [1004. Max Consecutive Ones III](./1004) | Medium |
 
 ## Navigation
