@@ -4,6 +4,7 @@ This repository contains solutions to various competitive programming problems f
 ## [LeetCode](./LeetCode)
 
 - [1. Two Sum](./LeetCode/1)
+- [2. Add Two Numbers](./LeetCode/2)
 - [20. Valid Parentheses](./LeetCode/20)
 - [35. Search Insert Position](./LeetCode/35)
 - [56. Merge Intervals](./LeetCode/56)
