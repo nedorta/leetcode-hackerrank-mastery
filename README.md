@@ -21,6 +21,7 @@ This repository contains solutions to various competitive programming problems f
 - [303. Range Sum Query - Immutable](./LeetCode/303)
 - [347. Top K Frequent Elements](./LeetCode/347)
 - [767. Reorganize String](./LeetCode/767)
+- [994. Rotting Oranges](./LeetCode/994)
 - [1004. Max Consecutive Ones III](./LeetCode/1004)
 
 ## [HackerRank](./HackerRank)

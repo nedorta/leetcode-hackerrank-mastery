@@ -24,6 +24,7 @@ This directory contains solutions to LeetCode problems. Each problem is in its o
 | 303 | [303. Range Sum Query - Immutable](./303) | Easy |
 | 347 | [347. Top K Frequent Elements](./347) | Medium |
 | 767 | [767. Reorganize String](./767) | Medium |
+| 994 | [994. Rotting Oranges](./994) | Medium |
 | 1004 | [1004. Max Consecutive Ones III](./1004) | Medium |
 
 ## Navigation
