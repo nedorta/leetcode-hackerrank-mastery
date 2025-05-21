@@ -25,6 +25,7 @@ This repository contains solutions to various competitive programming problems f
 | 303 | [Range Sum Query - Immutable](./LeetCode/303) | Easy |
 | 347 | [Top K Frequent Elements](./LeetCode/347) | Medium |
 | 767 | [Reorganize String](./LeetCode/767) | Medium |
+| 875 | [Koko Eating Bananas](./LeetCode/875) | Medium |
 | 994 | [Rotting Oranges](./LeetCode/994) | Medium |
 | 1004 | [Max Consecutive Ones III](./LeetCode/1004) | Medium |
 
