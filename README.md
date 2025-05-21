@@ -12,6 +12,7 @@ This repository contains solutions to various competitive programming problems f
 | 22 | [Generate Parentheses](./LeetCode/22) | Medium |
 | 35 | [Search Insert Position](./LeetCode/35) | Easy |
 | 46 | [Permutations](./LeetCode/46) | Medium |
+| 49 | [Group Anagrams](./LeetCode/49) | Medium |
 | 53 | [Maximum Subarray](./LeetCode/53) | Medium |
 | 56 | [Merge Intervals](./LeetCode/56) | Medium |
 | 70 | [Climbing Stairs](./LeetCode/70) | Easy |
