@@ -9,6 +9,7 @@ This repository contains solutions to various competitive programming problems f
 | 2 | [Add Two Numbers](./LeetCode/2) | Medium |
 | 3 | [Longest Substring Without Repeating Characters](./LeetCode/3) | Medium |
 | 20 | [Valid Parentheses](./LeetCode/20) | Easy |
+| 22 | [Generate Parentheses](./LeetCode/22) | Medium |
 | 35 | [Search Insert Position](./LeetCode/35) | Easy |
 | 53 | [Maximum Subarray](./LeetCode/53) | Medium |
 | 56 | [Merge Intervals](./LeetCode/56) | Medium |
