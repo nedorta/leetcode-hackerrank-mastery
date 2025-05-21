@@ -25,8 +25,7 @@ public class Solution {
             seen.put(nums[i], i);
         }
 
-        // By problem specification, this line should never be reached (exactly one solution exists).
-        // Some judges may expect an exception instead, but here we return the original array as a fallback.
+        // Here we return the original array as a fallback.
         return nums;
     }
 } 
