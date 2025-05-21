@@ -17,6 +17,7 @@ This repository contains solutions to various competitive programming problems f
 - [200. Number of Islands](./LeetCode/200)
 - [207. Course Schedule](./LeetCode/207)
 - [303. Range Sum Query - Immutable](./LeetCode/303)
+- [347. Top K Frequent Elements](./LeetCode/347)
 - [767. Reorganize String](./LeetCode/767)
 - [1004. Max Consecutive Ones III](./LeetCode/1004)
 

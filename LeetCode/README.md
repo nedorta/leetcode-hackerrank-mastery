@@ -20,6 +20,7 @@ This directory contains solutions to LeetCode problems. Each problem is in its o
 | 200 | [200. Number of Islands](./200) | Medium |
 | 207 | [207. Course Schedule](./207) | Medium |
 | 303 | [303. Range Sum Query - Immutable](./303) | Easy |
+| 347 | [347. Top K Frequent Elements](./347) | Medium |
 | 767 | [767. Reorganize String](./767) | Medium |
 | 1004 | [1004. Max Consecutive Ones III](./1004) | Medium |
 
