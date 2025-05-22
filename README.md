@@ -8,6 +8,7 @@ This repository contains solutions to various competitive programming problems f
 | 1 | [Two Sum](./LeetCode/1) | Easy |
 | 2 | [Add Two Numbers](./LeetCode/2) | Medium |
 | 3 | [Longest Substring Without Repeating Characters](./LeetCode/3) | Medium |
+| 4 | [Median of Two Sorted Arrays](./LeetCode/4) | Hard |
 | 20 | [Valid Parentheses](./LeetCode/20) | Easy |
 | 22 | [Generate Parentheses](./LeetCode/22) | Medium |
 | 23 | [Merge k Sorted Lists](./LeetCode/23) | Hard |
