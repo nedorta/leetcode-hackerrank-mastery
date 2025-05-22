@@ -36,6 +36,7 @@ This repository contains solutions to various competitive programming problems f
 | 994 | [Rotting Oranges](./LeetCode/994) | Medium |
 | 1004 | [Max Consecutive Ones III](./LeetCode/1004) | Medium |
 | 2551 | [Put Marbles in Bags](./LeetCode/2551) | Hard |
+| 3362 | [Zero Array Transformation III](./LeetCode/3362) | Hard |
 
 ## [HackerRank](./HackerRank)
 
@@ -70,6 +71,6 @@ This repository contains solutions to various competitive programming problems f
 | [Linked Lists](./HackerRank/data-structures/linked-lists) | - | [Cycle Detection](./HackerRank/data-structures/linked-lists/medium/Cycle_Detection) | - |
 | [Queues](./HackerRank/data-structures/queues) | - | - | - |
 | [Stacks](./HackerRank/data-structures/stacks) | - | [Balanced Brackets](./HackerRank/data-structures/stacks/medium/Balanced_Brackets) | - |
-| [Trees](./HackerRank/data-structures/trees) | [Height of a Binary Tree](./HackerRank/data-structures/trees/easy/Height_of_a_Binary_Tree) - [Level Order Traversal](./HackerRank/data-structures/trees/easy/Level_Order_Traversal) | - | - |
+| [Trees](./HackerRank/data-structures/trees) | [Height of a Binary Tree](./HackerRank/data-structures/trees/easy/Height_of_a_Binary_Tree) / [Level Order Traversal](./HackerRank/data-structures/trees/easy/Level_Order_Traversal) | - | - |
 | [Trie](./HackerRank/data-structures/trie) | - | [Contacts](./HackerRank/data-structures/trie/medium/Contacts) | - |
 
