@@ -50,7 +50,7 @@ This repository contains solutions to various competitive programming problems f
 | [Game Theory](./HackerRank/algorithms/game-theory) | - | - | - |
 | [Graph Theory](./HackerRank/algorithms/graph-theory) | - | [Even Tree](./HackerRank/algorithms/graph-theory/medium/Even%20Tree) | [BFS: Shortest Reach in a Graph](./HackerRank/algorithms/graph-theory/hard/BFS_Shortest_Reachin_a_Graph) |
 | [Greedy](./HackerRank/algorithms/greedy) | - | - | - |
-| [Implementation](./HackerRank/algorithms/implementation) | [Repeated String](./HackerRank/algorithms/implementation/easy/Repeated_String)<br/>[Jumping on the Clouds](./HackerRank/algorithms/implementation/easy/Jumping_on_the_Clouds) | - | [Matrix Layer Rotation](./HackerRank/algorithms/implementation/hard/Matrix_Layer_Rotation) |
+| [Implementation](./HackerRank/algorithms/implementation) | [Repeated String](./HackerRank/algorithms/implementation/easy/Repeated_String) / [Jumping on the Clouds](./HackerRank/algorithms/implementation/easy/Jumping_on_the_Clouds) | - | [Matrix Layer Rotation](./HackerRank/algorithms/implementation/hard/Matrix_Layer_Rotation) |
 | [NP Complete](./HackerRank/algorithms/np-complete) | - | - | - |
 | [Recursion](./HackerRank/algorithms/recursion) | - | - | - |
 | [Search](./HackerRank/algorithms/search) | - | [Pairs](./HackerRank/algorithms/search/medium/Pairs) | - |
@@ -70,6 +70,6 @@ This repository contains solutions to various competitive programming problems f
 | [Linked Lists](./HackerRank/data-structures/linked-lists) | - | [Cycle Detection](./HackerRank/data-structures/linked-lists/medium/Cycle_Detection) | - |
 | [Queues](./HackerRank/data-structures/queues) | - | - | - |
 | [Stacks](./HackerRank/data-structures/stacks) | - | [Balanced Brackets](./HackerRank/data-structures/stacks/medium/Balanced_Brackets) | - |
-| [Trees](./HackerRank/data-structures/trees) | [Height of a Binary Tree](./HackerRank/data-structures/trees/easy/Height_of_a_Binary_Tree)<br/>[Level Order Traversal](./HackerRank/data-structures/trees/easy/Level_Order_Traversal) | - | - |
+| [Trees](./HackerRank/data-structures/trees) | [Height of a Binary Tree](./HackerRank/data-structures/trees/easy/Height_of_a_Binary_Tree) - [Level Order Traversal](./HackerRank/data-structures/trees/easy/Level_Order_Traversal) | - | - |
 | [Trie](./HackerRank/data-structures/trie) | - | [Contacts](./HackerRank/data-structures/trie/medium/Contacts) | - |
 
