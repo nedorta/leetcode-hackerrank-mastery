@@ -35,6 +35,7 @@ This repository contains solutions to various competitive programming problems f
 | 875 | [Koko Eating Bananas](./LeetCode/875) | Medium |
 | 994 | [Rotting Oranges](./LeetCode/994) | Medium |
 | 1004 | [Max Consecutive Ones III](./LeetCode/1004) | Medium |
+| 2551 | [Put Marbles in Bags](./LeetCode/2551) | Hard |
 
 ## [HackerRank](./HackerRank)
 
