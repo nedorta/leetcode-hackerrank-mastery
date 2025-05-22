@@ -41,31 +41,35 @@ This repository contains solutions to various competitive programming problems f
 
 ### [Algorithms](./HackerRank/algorithms)
 
-- [Bit Manipulation](./HackerRank/algorithms/bit-manipulation)
-- [Constructive Algorithms](./HackerRank/algorithms/constructive-algorithms)
-- [Debugging](./HackerRank/algorithms/debugging)
-- [Dynamic Programming](./HackerRank/algorithms/dynamic-programming)
-- [Game Theory](./HackerRank/algorithms/game-theory)
-- [Graph Theory](./HackerRank/algorithms/graph-theory)
-- [Greedy](./HackerRank/algorithms/greedy)
-- [Implementation](./HackerRank/algorithms/implementation)
-- [NP-Complete](./HackerRank/algorithms/np-complete)
-- [Recursion](./HackerRank/algorithms/recursion)
-- [Search](./HackerRank/algorithms/search)
-- [Sorting](./HackerRank/algorithms/sorting)
-- [Strings](./HackerRank/algorithms/strings)
-- [Warmup](./HackerRank/algorithms/warmup)
+| Category | Easy | Medium | Hard |
+|----------|------|--------|------|
+| [Bit Manipulation](./HackerRank/algorithms/bit-manipulation) | - | - | - |
+| [Constructive Algorithms](./HackerRank/algorithms/constructive-algorithms) | - | [New Year Chaos](./HackerRank/algorithms/constructive-algorithms/medium/New_Year_Chaos) | - |
+| [Debugging](./HackerRank/algorithms/debugging) | - | - | - |
+| [Dynamic Programming](./HackerRank/algorithms/dynamic-programming) | - | - | - |
+| [Game Theory](./HackerRank/algorithms/game-theory) | - | - | - |
+| [Graph Theory](./HackerRank/algorithms/graph-theory) | - | [Even Tree](./HackerRank/algorithms/graph-theory/medium/Even%20Tree) | [BFS: Shortest Reach in a Graph](./HackerRank/algorithms/graph-theory/hard/BFS_Shortest_Reachin_a_Graph) |
+| [Greedy](./HackerRank/algorithms/greedy) | - | - | - |
+| [Implementation](./HackerRank/algorithms/implementation) | [Repeated String](./HackerRank/algorithms/implementation/easy/Repeated_String)<br/>[Jumping on the Clouds](./HackerRank/algorithms/implementation/easy/Jumping_on_the_Clouds) | - | [Matrix Layer Rotation](./HackerRank/algorithms/implementation/hard/Matrix_Layer_Rotation) |
+| [NP Complete](./HackerRank/algorithms/np-complete) | - | - | - |
+| [Recursion](./HackerRank/algorithms/recursion) | - | - | - |
+| [Search](./HackerRank/algorithms/search) | - | [Pairs](./HackerRank/algorithms/search/medium/Pairs) | - |
+| [Sorting](./HackerRank/algorithms/sorting) | - | - | - |
+| [Strings](./HackerRank/algorithms/strings) | - | [Sherlock and Anagrams](./HackerRank/algorithms/strings/medium/Sherlock_and_Anagrams) | - |
+| [Warmup](./HackerRank/algorithms/warmup) | - | - | - |
 
 ### [Data Structures](./HackerRank/data-structures)
 
-- [Advanced](./HackerRank/data-structures/advanced)
-- [Arrays](./HackerRank/data-structures/arrays)
-- [Balanced Trees](./HackerRank/data-structures/balanced-trees)
-- [Disjoint Set](./HackerRank/data-structures/disjoint-set)
-- [Heap](./HackerRank/data-structures/heap)
-- [Linked Lists](./HackerRank/data-structures/linked-lists)
-- [Queues](./HackerRank/data-structures/queues)
-- [Stacks](./HackerRank/data-structures/stacks)
-- [Trees](./HackerRank/data-structures/trees)
-- [Trie](./HackerRank/data-structures/trie)
+| Category | Easy | Medium | Hard |
+|----------|------|--------|------|
+| [Advanced](./HackerRank/data-structures/advanced) | - | - | - |
+| [Arrays](./HackerRank/data-structures/arrays) | - | [Sparse Arrays](./HackerRank/data-structures/arrays/medium/Sparse_Arrays) | - |
+| [Balanced Trees](./HackerRank/data-structures/balanced-trees) | - | [Self Balancing Tree](./HackerRank/data-structures/balanced-trees/medium/Self_Balancing_Tree) | [Array and Simple Queries](./HackerRank/data-structures/balanced-trees/hard/Array_and_Simple_Queries) |
+| [Disjoint Set](./HackerRank/data-structures/disjoint-set) | - | - | - |
+| [Heap](./HackerRank/data-structures/heap) | - | - | - |
+| [Linked Lists](./HackerRank/data-structures/linked-lists) | - | [Cycle Detection](./HackerRank/data-structures/linked-lists/medium/Cycle_Detection) | - |
+| [Queues](./HackerRank/data-structures/queues) | - | - | - |
+| [Stacks](./HackerRank/data-structures/stacks) | - | [Balanced Brackets](./HackerRank/data-structures/stacks/medium/Balanced_Brackets) | - |
+| [Trees](./HackerRank/data-structures/trees) | [Height of a Binary Tree](./HackerRank/data-structures/trees/easy/Height_of_a_Binary_Tree)<br/>[Level Order Traversal](./HackerRank/data-structures/trees/easy/Level_Order_Traversal) | - | - |
+| [Trie](./HackerRank/data-structures/trie) | - | [Contacts](./HackerRank/data-structures/trie/medium/Contacts) | - |
 
